@@ -1,2 +1,2 @@
 # NLP
-Natural Language Processing Projects
+Some Natural Language Processing examples
